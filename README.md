@@ -5,7 +5,5 @@ I'm pleased to present my results in this video.
 
 
 
-
-
-https://github.com/samydgr/Pytorch-Powered-Self-Driving-Car/assets/64478782/b64524d4-838d-48e4-b773-ce8137eb1122
+https://github.com/samydgr/Pytorch-Powered-Self-Driving-Car/assets/64478782/8a64f284-e5fc-49d9-a3ea-be177104b8f8
 
