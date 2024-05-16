@@ -5,5 +5,7 @@ I'm pleased to present my results in this video.
 
 
 
-Uploading Rec 0004 (1)(1).mp4…
+
+
+https://github.com/samydgr/Pytorch-Powered-Self-Driving-Car/assets/64478782/b64524d4-838d-48e4-b773-ce8137eb1122
 
